@@ -3,7 +3,7 @@
 
 In this repository, I showcase a project that I completed while I was working on a freecodecamp course. The link for the completed project on freecodecamp is here: https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline.
 
-I altered the colors in the orginal project to make the buildings have a color that resembles city buildings. The freecode camp colors were a bit unrealistic.
+I altered the colors in the origit ginal project to make the buildings have a color that resembles city buildings. The freecode camp colors were a bit unrealistic.
 
 
 
